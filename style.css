@@ -97,6 +97,11 @@ aside .asidegrid #Masidebox ul{
 }
 aside .asidegrid section{
     background-color:var(--branco);
+
+}
+aside .asidegrid section img{
+    width: 100%;
+    height: 100%;
 }
 footer{
     width: 100%;
